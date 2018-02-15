@@ -1,4 +1,4 @@
-# MachineLearning
+# Machine Learning
 This repository includes my understanding of some ideas in machine learning
 ***************************************************************************
 The first part ---> The study of Machine Learning in Action
