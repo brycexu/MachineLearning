@@ -21,3 +21,7 @@ Prediction
 7. C8_Regression
 
 8. C9_CART
+
+Unsupervised Learning
+
+9. C10_K-means
