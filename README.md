@@ -27,3 +27,5 @@ Unsupervised Learning
 9. C10_K-means
 
 10. C11_Apriori
+
+11. C12_FP-growth
