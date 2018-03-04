@@ -30,4 +30,6 @@ Unsupervised Learning
 
 11. C12_FP-growth
 
+Compelmentary tools
+
 12. C13_PCA
