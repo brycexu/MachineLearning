@@ -33,3 +33,5 @@ Unsupervised Learning
 Compelmentary tools
 
 12. C13_PCA
+
+13. C14_SVD
