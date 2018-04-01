@@ -37,7 +37,7 @@ Compelmentary tools
 13. C14_SVD
 
 ***************************************************************************
-The second part ---> The study of Coursera--Machine Learning by Andew Ng
+The second part ---> The study of Coursera--Machine Learning by Andrew Ng
 ***************************************************************************
 1. Linear Regression
 
