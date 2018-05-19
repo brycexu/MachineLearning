@@ -54,3 +54,28 @@ The second part ---> The study of Coursera--Machine Learning by Andrew Ng
 7. K-means Clustering and Principal Component Analysis
 
 8. Anomaly Detection and Recommender Systems
+
+***************************************************************************
+The third part ---> The study of Computer Vision (CS231N) by Fei-Fei Li
+***************************************************************************
+A1-1 KNN
+
+A1-2 SVM
+
+A1-3 Softmax
+
+A1-4 FCN
+
+A2-1 BN
+
+A2-2 Dropout
+
+A2-3 SGD with Momentum
+
+A2-4 CNN
+
+A3-1 RNN
+
+A3-2 LSTM
+
+A3-3 Generating Captions
